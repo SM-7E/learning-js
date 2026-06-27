@@ -1,5 +1,5 @@
 const course =  {
-    coursename: "afroz l Moba " , 
+    coursename: " l Moba " , 
     price : "kabhi mil hi nahi sakta ", 
     courseInstructor : "Vighnesh Bhai "
 
